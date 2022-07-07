@@ -1,0 +1,55 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Thu, 07 Jul 2022 04:59:56 -0400
+Source: imagemagick-7.1.0
+Binary: imagemagick-7.1.0 imagemagick-7.1.0-dbgsym
+Architecture: source amd64
+Version: 40-1
+Distribution: unstable
+Urgency: medium
+Maintainer: Marcin Sienkiewicz <mojEmail@gmail.com>
+Changed-By: Marcin Sienkiewicz <mojEmail@gmail.com>
+Description:
+ imagemagick-7.1.0 - ImageMagick - create, edit, compose and convert images.
+Changes:
+ imagemagick-7.1.0 (40-1) unstable; urgency=medium
+ .
+   * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+Checksums-Sha1:
+ 7ea622f6fecd63e9be747971e06770abf441b687 2328 imagemagick-7.1.0_40-1.dsc
+ 782e5ce5e7d94d29e7c339f7279670afa509fc06 15065299 imagemagick-7.1.0_40.orig.tar.gz
+ c3265ab27ee0a2d78b99725420ac6ae6e4a0bdef 8404 imagemagick-7.1.0_40-1.debian.tar.xz
+ 25ea3141f62e011accc276600f9c3f9e130b0115 5136868 imagemagick-7.1.0-dbgsym_40-1_amd64.deb
+ f61e2fee62e0bc4125b07d36e2daecd2f0bf2b34 9530 imagemagick-7.1.0_40-1_amd64.buildinfo
+ 4f23828d443e14f9afa54d1d4326b94ca4ce8a14 8568888 imagemagick-7.1.0_40-1_amd64.deb
+Checksums-Sha256:
+ d3a23d86e68a8679f51aa7448bffb8de99816c2b5e010def35df98676795c8e2 2328 imagemagick-7.1.0_40-1.dsc
+ 27200fe81531f96779332644ebb6db4d4ffbf6cfed636e407065195d0169919d 15065299 imagemagick-7.1.0_40.orig.tar.gz
+ 72dbe74737d81bea305ac9c28d552943d67561e0e8aad87760bb74a0e1300696 8404 imagemagick-7.1.0_40-1.debian.tar.xz
+ 42864159b9ff03bc10b929c9032546d59af58f670bd67cf7d29d03c8a02050ee 5136868 imagemagick-7.1.0-dbgsym_40-1_amd64.deb
+ 67c1d77058bd89fcfa00e7dcf5278414ac3b59c04f2e495ff01547c26ffef2e0 9530 imagemagick-7.1.0_40-1_amd64.buildinfo
+ 21cc7da44fd9e4f2f8bdd37f576eed5a5c0b374928e57cec03ccd193cea35c91 8568888 imagemagick-7.1.0_40-1_amd64.deb
+Files:
+ e71ccae51b3df59bd9eac9a83958484a 2328 unknown optional imagemagick-7.1.0_40-1.dsc
+ 30e182376b82c5a50c8d703b96f827a2 15065299 unknown optional imagemagick-7.1.0_40.orig.tar.gz
+ 297915d4e561d4304613aa09d561eb19 8404 unknown optional imagemagick-7.1.0_40-1.debian.tar.xz
+ a0f31cfaef58cd5e576575413b6a7728 5136868 debug optional imagemagick-7.1.0-dbgsym_40-1_amd64.deb
+ 65f0966a9803236c1bd70aeb3b734c38 9530 unknown optional imagemagick-7.1.0_40-1_amd64.buildinfo
+ 094f73634ad8808aceb9d4a3ed8ba6c9 8568888 unknown optional imagemagick-7.1.0_40-1_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQHHBAEBCgAxFiEEOT2L9MiRAjqfYEFmhRNTd/P68EYFAmLGpRITHG1vamVtYWls
+QGdtYWlsLmNvbQAKCRCFE1N38/rwRrjwC/4h+IcZwNoGiFI2SYyNX62CnEkgXLw4
+W6D4DYj9SdGUHzGae2HztY6zT750EWqmNHBPXVKAWW7+zKdeP2Obgjf+H5JCGvif
++Y18YfLyCw0J5YVEo1DsyFKa17arNfCKRp712hBvFeC4a9izqOdDrdG8/IwOdwIE
+/MIJ0uPYzJ+jOO8p4NA18o8TD/ip3rJELsojKXqv/Jx353GlAE5hs9h5pePj3O+k
+2YYqbDiSa+4l3Tud2H34T6fqYsk8Kx+qpIw5+biaG2wo2WZnjGcdwLhnMeJ/Pf++
+qfBo0N4TLCOYlUsM+BgUblNHZGGZwpTYPS6IYZ1WOyp6NA2ALFcd2RXBWPiikX5u
+As7IWbeaLatKKFC5Y5b/gPMytzDAfMrgop8Jw/xkB3/a7AG9atdgrtbV47r1z1q8
+mLe433T+1U8k3bgYezSbewMG0iNE9ZLbLygdxNKbKFoZ/mxkWHThqz9jKDpidSJe
+S4sV+J9D24xPbd89y4Nc08QIMkuhFHnGICI=
+=9wIq
+-----END PGP SIGNATURE-----

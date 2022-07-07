@@ -1,0 +1,5 @@
+imagemagick-7.1.0 (40-1) unstable; urgency=medium
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Marcin Sienkiewicz <mojEmail@gmail.com>  Thu, 07 Jul 2022 04:59:56 -0400

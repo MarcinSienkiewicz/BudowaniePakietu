@@ -1,0 +1,57 @@
+Source: imagemagick-7.1.0
+Section: unknown
+Priority: optional
+Maintainer: Marcin Sienkiewicz <mojEmail@gmail.com>
+Build-Depends:
+ debhelper-compat (= 13),
+ autotools-dev,
+ mawk,
+ libopenjp2-7:amd64,
+ libp11-kit0:amd64,
+ liblcms2-2:amd64,
+ libunistring2:amd64,
+ libavahi-client3:amd64,
+ pkg-config,
+ fonts-droid-fallback,
+ tzdata,
+ libcups2:amd64,
+ libavahi-common3:amd64,
+ libglib2.0-0:amd64,
+ libgnutls30:amd64,
+ ghostscript,
+ libpng16-16:amd64,
+ libmagic-mgc,
+ file,
+ libtasn1-6:amd64,
+ libdeflate0:amd64,
+ libwebp6:amd64,
+ libperl5.32:amd64,
+ libtiff5:amd64,
+ libijs-0.35:amd64,
+ mailcap,
+ libffi7:amd64,
+ libfakeroot:amd64,
+ libidn2-0:amd64,
+ libgs9-common,
+ libjpeg62-turbo:amd64,
+ libgs9:amd64,
+ libfontconfig1:amd64,
+ libnettle8:amd64,
+ libjbig0:amd64,
+ libpaper1:amd64,
+ libjbig2dec0:amd64,
+ libmagic1:amd64,
+ libhogweed6:amd64,
+ libbrotli1:amd64,
+ libfreetype6:amd64
+Standards-Version: 4.5.1
+Homepage: <insert the upstream URL, if relevant>
+#Vcs-Browser: https://salsa.debian.org/debian/imagemagick-7.1.0
+#Vcs-Git: https://salsa.debian.org/debian/imagemagick-7.1.0.git
+Rules-Requires-Root: no
+
+Package: imagemagick-7.1.0
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: ImageMagick - create, edit, compose and convert images.
+ Use ImageMagick to create, edit, compose, or convert digital images. It can read and write images in a variety of formats (over 200) including PNG, JPEG, GIF, WebP, HEIC, SVG, PDF, DPX, EXR and TIFF. ImageMagick can resize, flip, mirror, rotate, distort, shear and transform images, adjust image colors, apply various special effects, or draw text, lines, polygons, ellipses and Bezier curves.

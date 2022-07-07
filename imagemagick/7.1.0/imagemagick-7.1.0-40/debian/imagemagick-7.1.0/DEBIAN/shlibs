@@ -1,0 +1,3 @@
+libMagick++-7.Q16HDRI 5 imagemagick-7.1.0 (>= 40)
+libMagickCore-7.Q16HDRI 10 imagemagick-7.1.0 (>= 40)
+libMagickWand-7.Q16HDRI 10 imagemagick-7.1.0 (>= 40)
